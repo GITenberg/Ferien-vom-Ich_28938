@@ -1,0 +1,27 @@
+_repo: Ferien-vom-Ich_28938
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keller, Paul
+    birthdate: 1873
+    deathdate: 1932
+    gutenberg_agent_id: '33597'
+    url: http://www.gutenberg.org/2009/agents/33597
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28938'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+title: Ferien vom Ich
+url: http://www.gutenberg.org/ebooks/28938
